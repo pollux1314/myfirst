@@ -1,0 +1,12 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="useMaterialFont2" value="true" />
+    <option name="tabOpacity" value="49" />
+    <option name="accentColor" value="9e9e9e" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="28eb4ee1:167de3c2279:-8000" />
+    <option name="version" value="3.9.0" />
+  </component>
+</application>

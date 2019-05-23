@@ -1,0 +1,20 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="WITH_SUBDIRECTORIES" value="false" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.properties</mask>
+    <mask>*.jsp</mask>
+    <mask>*.as</mask>
+    <mask>*.mxml</mask>
+    <mask>*.</mask>
+    <mask>*.yml</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.xhtml</mask>
+    <mask>*.js</mask>
+    <mask>*.java</mask>
+  </component>
+</application>

@@ -1,0 +1,11 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Declaration/Generate missed test methods" />
+    <ignoreAction name="Java/Modifiers/Make Package-Private" />
+    <ignoreAction name="XML/Insert namespace prefix" />
+    <ignoreAction name="Language Injection/Inject language or reference" />
+    <ignoreAction name="JavaScript/Comments/Move Comment To Separate Line" />
+    <ignoreAction name="XML/Split current tag" />
+    <ignoreAction name="JavaScript/JSX/Wrap value with {}" />
+  </component>
+</application>
